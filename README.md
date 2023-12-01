@@ -30,7 +30,7 @@ npm run dev
 
 The leaflet library is in plain JavaScript. This demo uses typescript for validation and intellisense ([Visual Code Editor](https://code.visualstudio.com/)). In the project [@types/leaflet](https://www.npmjs.com/package/@types/leaflet) the typescript definitions for leaflet can be found. After installing with `npm i @types/leaflet` the definitions are placed in `node_modules\@types\leaflet`. Visual Code will automatically combine this type information with the leaflet library (leaflet is still JavaScript).
 
-![Intellisense](images\Intellisense.png)
+![Intellisense](images/Intellisense.png)
 
 ### File locations
 
