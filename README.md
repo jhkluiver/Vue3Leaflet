@@ -12,7 +12,7 @@ Two approaches where used (in one webpage):
   
   Use the leaflet package through the vue-leaflet library (install with `npm i vue-leaflet`). The advantage is that the leaflet can be defined in the vue template. With reactive the elements can be bound. A disadvantage is that you have less control over the leaflet library. Should be possible with map reference, but I didn't find out how.
 
-![](images\screenshot.png)
+![](images/screenshot.png)
 
 Used chrome as web browser to test (didn't check other browsers)
 
