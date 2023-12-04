@@ -1,8 +1,8 @@
 # Leaflet in vue 3
 
-This demo project shows how to use [leaflet](https://leafletjs.com/) map in an vue 3 web application. in this example the [quasar framework ](https://quasar.dev/)was used, but this can be anything ([vuetify](https://vuetifyjs.com/), no framework).
+This demo project shows how to use [leaflet](https://leafletjs.com/) map in an vue 3 web application. In this example the [quasar framework ](https://quasar.dev/)was used, but this can be anything ([vuetify](https://vuetifyjs.com/), no framework).
 
-Two approaches where used (in one webpage):
+Two approaches where used (demonstrated in one webpage):
 
 * Leaflet directly (left side of screenshot)
   
@@ -10,7 +10,7 @@ Two approaches where used (in one webpage):
 
 * With library [vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) (right side of screenshot)
   
-  Use the leaflet package through the vue-leaflet library (install with `npm i vue-leaflet`). The advantage is that the leaflet can be defined in the vue template. With reactive the elements can be bound. A disadvantage is that you have less control over the leaflet library. Should be possible with map reference, but I didn't find out how.
+  Use the leaflet package through the vue-leaflet library (install with `npm i vue-leaflet`). The advantage is that the leaflet can be defined in the vue template. Reactive the elements can be bound. A disadvantage is that you have less control over the leaflet. Should be possible with map reference, but I didn't find out how.
 
 ![](images/screenshot.png)
 
