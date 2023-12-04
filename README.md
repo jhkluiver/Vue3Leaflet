@@ -23,7 +23,7 @@ Install the Node Package Manager ([NPM](https://docs.npmjs.com/downloading-and-i
 ```
 npm install
 npm run dev
-# Open webbrowser on port 9001
+# Open webbrowser on port 9000
 ```
 
 ### Intellisense
