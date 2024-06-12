@@ -1,3 +1,5 @@
+Note: leaflet is a great project, but I run into problem when dynamic updating layers.Now using [openlayers for vue 3](https://vue3openlayers.netlify.app/), I would recomment to use the project.
+
 # Leaflet in vue 3
 
 This demo project shows how to use [leaflet](https://leafletjs.com/) map in an vue 3 web application. In this example the [quasar framework ](https://quasar.dev/)was used, but this can be anything ([vuetify](https://vuetifyjs.com/), no framework).
