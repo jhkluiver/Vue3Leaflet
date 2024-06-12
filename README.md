@@ -1,4 +1,4 @@
-Note: leaflet is a great project, but I run into problem when dynamic updating layers.Now using [openlayers for vue 3](https://vue3openlayers.netlify.app/), I would recomment to use the project.
+Note: leaflet is a great project, but I run into problem when dynamic updating layers.Now using [openlayers for vue 3](https://vue3openlayers.netlify.app/), I would recomment to use this project.
 
 # Leaflet in vue 3
 
